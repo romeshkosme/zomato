@@ -1,0 +1,32 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "zomato clone",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romeshkosme/zomato.git"
+  },
+  "keywords": [
+    "zomato",
+    "clone"
+  ],
+  "author": "romeshkosme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romeshkosme/zomato/issues"
+  },
+  "homepage": "https://github.com/romeshkosme/zomato#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
